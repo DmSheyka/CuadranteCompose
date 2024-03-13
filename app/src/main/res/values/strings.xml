@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cuadrante de compose</string>
+    <string name="titulo_texto_composable">Texto composable</string>
+    <string name="descripcion_texto_composable">Muestra texto y sigue las directrices recomendadas de Material Design.</string>
+    <string name="titulo_imagen_composable">Imagen composable</string>
+    <string name="descripcion_imagen_composable">Crea un composable que traza y dibuja un objeto de la clase Painter dado.</string>
+    <string name="titulo_fila_composable">Fila composable</string>
+    <string name="descripcion_fila_composable">Un diseño composable que coloca a sus hijos en una secuencia horizontal.</string>
+    <string name="descripcion_columna_composable">Un diseño composable que coloca a sus hijos en una secuencia vertical.</string>
+    <string name="titulo_columna_composable">Columna composable</string>
+</resources>
